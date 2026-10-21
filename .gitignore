@@ -1,0 +1,14 @@
+# claude code
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+
+# logs
+*.log
+npm-debug.log*
+
+# dependencies
+node_modules/
+
+# os
+.DS_Store
